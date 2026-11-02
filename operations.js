@@ -16,3 +16,6 @@ console.log(n2%n1)
 
 // Concaténation = Collage de 2 string
 "Bonjour" + " tout le monde" => "Bonjour tout le monde"
+
+console.log('La valeur de n1 est : ${n1}');
+console.log("La valeur de n1 est : " + n1);
